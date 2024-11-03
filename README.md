@@ -4,7 +4,7 @@ I'm a **Full Stack Web Developer** based in İstanbul, Türkiye, specializing in
 
 ## 🔥 What I Bring to the Table
 - **Frontend Frameworks:** Proficient in **Next.js** and **React** for fast, optimized user interfaces.
-- **Backend Mastery:** Skilled in **Node.js** and familiar with **PHP** for building robust and scalable server-side solutions.
+- **Backend Mastery:** Skilled in **Node.js / Spring Boot** and familiar with **PHP** for building robust and scalable server-side solutions.
 - **Styling Expertise:** Using **Tailwind CSS** to deliver clean, modern UIs without sacrificing speed.
 - **Modern Development Approach:** I avoid outdated tech stacks, always aiming for **innovative** and **future-ready** solutions.
 - **UI/UX Skills:** With a strong focus on detail, I ensure every project looks good and functions seamlessly 🎨.

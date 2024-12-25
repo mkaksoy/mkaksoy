@@ -19,4 +19,13 @@ I'm diving deeper into **open-source contributions** and pushing the boundaries 
 Whether you're here for a collaboration or just want to chat about web dev, feel free to reach out to me!
 
 ---
+<br>
 
+<h1 align="center">
+My Skills
+</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,react,tailwind,nextjs,jest,cpp,python,java,kotlin,gradle,maven,mongodb,figma,deno,docker&perline=10" />
+  </a>
+</p>

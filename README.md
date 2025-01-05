@@ -29,3 +29,8 @@ My Skills
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,react,tailwind,nextjs,jest,cpp,python,java,kotlin,gradle,maven,mongodb,figma,deno,docker&perline=10" />
   </a>
 </p>
+
+<br>
+<br>
+
+<h6 align="center">Checkout my current project <a href="https://github.com/The-Tornado-Project/Tornado">Tornado</a>!</h6>
